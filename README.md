@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20winver18&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20FryFries13&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -10,16 +10,16 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=winver18&theme=transparent&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=FryFries13&theme=transparent&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=winver18&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=FryFries13&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=winver18&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FryFries13&theme=github-compact&hide_border=true&area=true" />
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winver18&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FryFries13&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
@@ -27,11 +27,11 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/winver18"><img src="https://img.shields.io/badge/GitHub-winver18-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/哔哩哔哩-爱玩电脑的winver-pink?logo=bilibili" /></a>
+<a href="https://github.com/FryFries13"><img src="https://img.shields.io/badge/GitHub-FryFries13-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/哔哩哔哩-Fry酥条-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-370002394-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=winver18&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=FryFries13&abbreviated=true&color=yellow" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
